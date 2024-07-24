@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Main {
+public class SumofNatNum {
     public static void main(String[] args) {
         //for loop
         int sum=0;
